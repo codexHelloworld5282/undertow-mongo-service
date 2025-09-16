@@ -21,3 +21,8 @@ This project provides basic **CRUD operations** for users and can be easily exte
 ---
 
 ## 🎨 ASCII Logo
+| | | | | | | |
+| | | | __ | | | | _____ __
+| | | |/ ` | / _| ' \ / _ \ / /
+| || | (| | || (__| | | | /> <
+_/ _,|____|| ||___//_\
